@@ -28,8 +28,6 @@ letter-spacing: 0.03em;
 font-size: 14px;
 line-height: 1.7em}
 
-.link {color:var(--title-text-color)}
-
 h1{color: var(--secondary-white-color);
   font-weight: 900;
   font-size: 44px;
@@ -79,6 +77,7 @@ padding: 0%;}
 
 }
 
+.link {color:var(--title-text-color)}
 .header-logo{color: var(--logo-color);
 margin-right: 93px;
 }
